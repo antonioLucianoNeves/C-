@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "RegistroFuncionario": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false,
+      "jsWebView2Debugging": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
